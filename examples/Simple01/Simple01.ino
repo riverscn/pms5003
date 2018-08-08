@@ -1,8 +1,6 @@
-#include <Arduino.h>
-
 #include <pms.h>
 
-Pmsx003 pms(D3, D4);
+Pmsx003 pms(3, 4);
 
 ////////////////////////////////////////
 
